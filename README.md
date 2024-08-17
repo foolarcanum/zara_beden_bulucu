@@ -1,1 +1,1 @@
-# zara_beden_bulucu
+Zara websitesindeki ürünlerin bedenini kontrol etmek için oluşturduğum kod. Linki ve bedeni girdiğinizde ürünün bu bedeninin olup olmadığını 60 saniyede bir kontrol eder. Terminale verilen herhangi bir keystroke süreci durdurur.
